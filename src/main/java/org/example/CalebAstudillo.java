@@ -12,4 +12,7 @@ public class CalebAstudillo {
     void sayHi() {
         System.out.println("Hello I have " + age + "and I study " + carreer);
     }
+    void sayGoodbye() {
+        System.out.println("Goodbye!");
+    }
 }
