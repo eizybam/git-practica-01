@@ -37,4 +37,8 @@ public class Carro {
     public void setMaxSpeed(int maxSpeed) {
         this.maxSpeed = maxSpeed;
     }
+
+    public String tellMaxSpeed(){
+        return "your max speed is " + maxSpeed;
+    }
 }
